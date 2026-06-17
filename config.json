@@ -1,0 +1,11 @@
+{
+  "input_dir": "data",
+  "output_dir": "results",
+  "stroke_width": 45,
+  "threshold": 128,
+  "merge_angle_threshold": 30,
+  "target_width": 1024,
+  "target_height": 1024,
+  "min_branch_length": 5,
+  "smoothing_epsilon": 2.0
+}
